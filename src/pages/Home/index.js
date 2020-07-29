@@ -1,5 +1,5 @@
 import React from 'react';
-import Menu from '../../components/index';
+import Menu from '../../components/Menu/index';
 import dados_iniciais from '../../data/dados_iniciais.json';
 import BannerMain from '../../components/BannerMain';
 import Carousel from '../../components/Carousel';

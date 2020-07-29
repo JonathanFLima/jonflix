@@ -1,5 +1,5 @@
 import React from 'react';
-import Menu from '../../components/index';
+import Menu from '../../components/Menu/index';
 import Footer from '../../components/Footer';
 import styled from 'styled-components';
 
