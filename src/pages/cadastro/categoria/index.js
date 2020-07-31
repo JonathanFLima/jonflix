@@ -31,7 +31,6 @@ function CadastroCategoria() {
   }
 
   useEffect(() => {
-    console.log('oi');
     const URL = window.location.hostname.includes('localhost')
       ? 'http://localhost:8080/categorias'
       : 'http://devjonflix.herokuapp.com/categorias';
